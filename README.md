@@ -13,7 +13,7 @@ I'm available for senior full-stack or agent-tooling work, remote, UTC-3.
 - [**pi-command-sandbox**](https://github.com/jalbarrang/pi-command-sandbox) — Shell-command
   validation for "read-only" agent modes, shared by the other extensions, still wip.
 - [**taskman**](https://github.com/jalbarrang/taskman) — My own task manager for coding agents.
-- [**honse-sim**](https://github.com/jalbarrang/torena-sim) — Race-simulation for honse-game, as a Rust
+- [**honse-sim**](https://github.com/jalbarrang/honse-sim) — Race-simulation for honse-game, as a Rust
   library.
 
 ## Pages
