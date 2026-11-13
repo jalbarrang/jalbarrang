@@ -13,19 +13,21 @@ I'm available for senior full-stack or agent-tooling work, remote, UTC-3.
 - [**pi-command-sandbox**](https://github.com/jalbarrang/pi-command-sandbox) — Shell-command
   validation for "read-only" agent modes, shared by the other extensions, still wip.
 - [**taskman**](https://github.com/jalbarrang/taskman) — My own task manager for coding agents.
-- [**torena-sim**](https://github.com/jalbarrang/torena-sim) — Race-simulation for honse-game, as a Rust
+- [**honse-sim**](https://github.com/jalbarrang/torena-sim) — Race-simulation for honse-game, as a Rust
   library.
+
+## Pages
+
+- [torena-sim](https://torena-sim.pages.dev/) – Race simulator for honse-game, in the browser.
 
 ## Tools
 
-- [**pi-questionnaire**](https://github.com/jalbarrang/pi-questionnaire).
-- [**pi-lsp**](https://github.com/jalbarrang/pi-lsp).
+- [**pi-questionnaire**](https://github.com/jalbarrang/pi-questionnaire) — Structured input for agents, instead of ten rounds of chat.
+- [**pi-lsp**](https://github.com/jalbarrang/pi-lsp) — LSP for agents: diagnostics, hover, definitions, references.
 - [**pi-plan-mode**](https://github.com/jalbarrang/pi-plan-mode) — Wanted to have plan mode? here it is.
 - [**pi-subagent**](https://github.com/jalbarrang/pi-subagent) — Spawn subagents and stuff.
-- [**pi-code-reviewer**](https://github.com/jalbarrang/pi-code-reviewer) — Code review against a
-  project's own nuances.
-- [**honse-tracker**](https://github.com/jalbarrang/honse-tracker) — A HUD plugin for a
-  horse-racing game. It reads the game and draws; the choices stay yours.
+- [**pi-code-reviewer**](https://github.com/jalbarrang/pi-code-reviewer) — Code review against a project's own nuances.
+- [**honse-tracker**](https://github.com/jalbarrang/honse-tracker) — A HUD plugin for honse-game. It reads the game and draws.
 
 ## Experiments
 
